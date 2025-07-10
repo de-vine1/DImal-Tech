@@ -10,6 +10,11 @@ fetch("footer.html")
   .then((res) => res.text())
   .then((data) => {
     document.getElementById("footer-placeholder").innerHTML = data;
+    // Set the year after footer is loaded
+    var yearSpan = document.getElementById('footer-year');
+    if (yearSpan) {
+      yearSpan.textContent = new Date().getFullYear();
+    }
   });
 
 //Load Header-2
@@ -30,3 +35,4 @@ window.addEventListener('scroll', function() {
     }
   }
 });
+
