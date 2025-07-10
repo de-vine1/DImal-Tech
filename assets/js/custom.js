@@ -12,6 +12,13 @@ fetch("footer.html")
     document.getElementById("footer-placeholder").innerHTML = data;
   });
 
+//Load Header-2
+fetch("header2.html")
+  .then((res) => res.text())
+  .then((data) => {
+    document.getElementById("header2-placeholder").innerHTML = data;
+  });
+
 // Sticky Header Script
 window.addEventListener('scroll', function() {
   var header = document.getElementById('sticky-header');
