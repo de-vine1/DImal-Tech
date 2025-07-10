@@ -198,7 +198,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 100%;
     -webkit-box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
-    background: #004c19 !important;
+    background: linear-gradient(to right, rgba(13,39,54,1), rgba(13,39,54,0.7)) !important;
     transition: 0.5s;
     z-index: 999 !important;
     -webkit-animation: 300ms running fadeInDown;
@@ -926,7 +926,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     height: 100%;
     left: 50%;
     top: 0;
-    background:#004c19;
+    background:#0D2736;
     opacity: 0.6;
     transition: 0.5s;
     border-radius: 10px;
@@ -1109,7 +1109,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-one .testi-desc p {
     font-size: 20px;
     line-height: 34px;
-    color: #004c19;
+    color: #0D2736;
     width: 65%;
     margin: auto;
     margin-top: 176px;
@@ -1365,7 +1365,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 
 .style-one.footer-area {
-    background: linear-gradient(to right, rgba(0,128,0,0.7), rgba(0,255,0,0.3)), url(../images/home-1/footer-bg.jpg);
+   background: linear-gradient(to right, rgba(13,39,54,1), rgba(13,39,54,0.7)), url(../images/home-1/footer-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1488,7 +1488,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 /*Toptech Top header Area Css Style two*/
 
 .top-header-area {
-    background: #004c19;
+    background: #0D2736;
     padding: 12px 0;
     position: relative;
     z-index: 1;
@@ -1815,7 +1815,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: .5s;
     padding: 35px 0 13px 0;
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
     font-family: "Rajdhani";
     text-align: center;
@@ -2005,7 +2005,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-two.section-title h1 {
     font-size: 42px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
     line-height: 40px;
 }
@@ -2106,7 +2106,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-two .service-content h4 {
     font-size: 26px;
     line-height: 50px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
     margin: 16px 0 12px 0;
     transition: 0.5s;
@@ -2426,7 +2426,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: .3s;
     font-size: 24px;
     line-height: 28px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     display: inline-block;
@@ -2881,15 +2881,15 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .single-pricing-box.two span.pricing-text {
-    color: #004c19;
+    color: #0D2736;
 }
 
 .single-pricing-box.two h4.pricing {
-    color: #004c19 !important;
+    color: #0D2736 !important;
 }
 
 .single-pricing-box.two h4.pricing span{
-    color: #004c19;
+    color: #0D2736;
 }
 
 .single-pricing-box.two a.pricing-tag {
@@ -2902,7 +2902,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .single-pricing-box.two .pricing-title h4{
-    color: #004c19;
+    color: #0D2736;
 }
 
 .single-pricing-box.two .pricing-title p{
@@ -2911,7 +2911,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .single-pricing-box.two .pricing-title a {
     border: 1px solid #0BD759;
-    color: #004c19;
+    color: #0D2736;
     transition: 0.5s;
 }
 
@@ -3202,7 +3202,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three .about-award-content p {
     font-size: 20px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     line-height: 32px;
@@ -3240,7 +3240,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .about-list-item ul li {
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     line-height: 37px;
 }
@@ -3321,7 +3321,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three .service-content h4 {
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin: 21px 0 0;
@@ -3394,7 +3394,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Toptech Portfoli Area Home Threee Css-->
 =========================================================---*/
 .style-three.portfolio-area {
-    background: #004A19;
+    background: #0D2736;
     padding: 118px 0 97px;
 }
 
@@ -3438,7 +3438,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-three .portfolio-content a {
     display: inline-block;
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     transition: 0.5s;
@@ -3491,7 +3491,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-three .testi-desc p {
     font-size: 18px;
     line-height: 30px;
-    color: #004c19;
+    color: #0D2736;
     margin: 22px 0 27px;
 }
 
@@ -3686,7 +3686,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three .pricing-button a {
     font-size: 16px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     font-family: "Nunito";
     display: inline-block;
@@ -4118,7 +4118,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .inner-style-one .abour-award-box {
-    background: #004c19;
+    background: #0D2736;
     display: flex;
     align-items: center;
     padding: 25px 49px 22px;
@@ -4194,7 +4194,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .inner-style-one .about-list-item ul li {
-    color: #004c19;
+    color: #0D2736;
     margin: 0;
     line-height: 35px;
 }
@@ -4373,7 +4373,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .inner-style-one .testi-desc p {
     font-size: 20px;
     line-height: 34px;
-    color: #004c19;
+    color: #0D2736;
     width: 65%;
     margin: auto;
     margin-top: 176px;
@@ -4741,7 +4741,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .inner-style .pricing-head-content h1 {
     font-size: 32px;
-    color: #004c19;
+    color: #0D2736;
     margin: 0 0 4px;
 }
 
@@ -4751,7 +4751,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .inner-style .pricing-rate h1 {
     font-size: 55px;
-    color: #004c19;
+    color: #0D2736;
     margin: 0 0 16px;
 }
 
@@ -5829,7 +5829,7 @@ button.icons {
     display: inline-block;
     font-size: 18px;
     line-height: 24px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
 }
@@ -5957,7 +5957,7 @@ button.icons {
 .blog-grid-area .blog-title a {
     font-size: 24px;
     line-height: 32px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
     font-family: "Rajdhani";
 }
@@ -6038,7 +6038,7 @@ button.icons {
 }
 
 .inner-style .careers-content h4 {
-    color: #004c19;
+    color: #0D2736;
     font-size: 24px;
     margin: 0;
     font-weight: 600;
@@ -6085,7 +6085,7 @@ button.icons {
 
 .inner-style .job-item-content h4 {
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin: 19px 0 0;
@@ -6105,7 +6105,7 @@ button.icons {
     border: 2px solid #2222;
     padding: 14px 58px;
     border-radius: 30px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     transition: 0.5s;
 }
@@ -6123,7 +6123,7 @@ button.icons {
 }
 
 .inner-style .job-requirements-content h4 {
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     margin: 27px 0 29px;
 }
@@ -6193,7 +6193,7 @@ button.icons {
     transition: .5s;
     padding: 35px 0 13px 0;
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
     font-family: "Rajdhani";
     text-align: center;
@@ -6307,7 +6307,7 @@ button.icons {
 }
 
 .inner-style .location-content h4 {
-    color: #004c19;
+    color: #0D2736;
     font-size: 26px;
     font-weight: 600;
     margin: 30px 0 13px;
@@ -6343,7 +6343,7 @@ button.icons {
     padding: 15px 105px;
     border-radius: 30px;
     text-transform: uppercase;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     margin-top: 49px;
     transition: 0.5s;
@@ -6408,7 +6408,7 @@ button.icons {
     text-align: center;
     line-height: 45px;
     font-size: 25px;
-    color: #004c19;
+    color: #0D2736;
     margin-right: 16px;
 }
 
@@ -6417,7 +6417,7 @@ button.icons {
     border: 2px solid #e7e7e8;
     border-radius: 30px;
     padding: 13px 44px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     margin-top: 23px;
     transition: 0.5s;
@@ -6451,7 +6451,7 @@ button.icons {
 
 .inner-style .single-choose-us-item ul li {
     font-size: 18px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 400;
     font-family: "Nunito";
     margin-bottom: 19px;
@@ -6554,7 +6554,7 @@ button.icons {
 
 .team-details-area .team-details-social-icon ul li {
     font-size: 22px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin-top: 49px;
@@ -6968,7 +6968,7 @@ span.flaticon-multiply i {
     display: inline-block;
     padding: 25px 0;
     font-size: 16px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     font-family: "Nunito";
     text-transform: capitalize;
@@ -6976,7 +6976,7 @@ span.flaticon-multiply i {
 
 .header-area.style-foure .header-menu ul li a i {
     display: inline-block;
-    color: #004c19;
+    color: #0D2736;
     font-size: 13px;
     margin-left: -5px;
 }
@@ -6998,7 +6998,7 @@ span.flaticon-multiply i {
     content: "";
     height: 100%;
     width: 100%;
-    background: #004A19;
+    background: #0D2736;
     clip-path: polygon(50% 0, 50% 0, 50% 50%, 50% 100%, 50% 100%, 50% 50%);
     left: 0px;
     right: 0px;
@@ -7013,7 +7013,7 @@ span.flaticon-multiply i {
     margin: 0;
     font-size: 18px;
     line-height: 48px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 500;
     font-family: "Nunito";
     margin-right: 20px;
@@ -7145,7 +7145,7 @@ span.flaticon-multiply i {
     content: "";
     height: 100%;
     width: 100%;
-    background: #004A19;
+    background: #0D2736;
     clip-path: polygon(50% 0, 50% 0, 50% 50%, 50% 100%, 50% 100%, 50% 50%);
     left: 0px;
     right: 0px;
@@ -7311,7 +7311,7 @@ span.flaticon-multiply i {
 .section-title.style-foure h1.section-main-title {
     font-size: 46px;
     line-height: 45px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 700;
 }
 
@@ -7369,7 +7369,7 @@ span.flaticon-multiply i {
 
 .service-area.style-foure h3.service-title {
     font-size: 22px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin: 0;
@@ -7465,7 +7465,7 @@ span.flaticon-multiply i {
 
 .about-area.style-foure .about-title h3 {
     font-size: 18px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin: 0;
@@ -7510,7 +7510,7 @@ span.flaticon-multiply i {
     content: "";
     height: 100%;
     width: 100%;
-    background: #004A19;
+    background: #0D2736;
     border-radius: 30px;
     left: 0;
     top: 0;
@@ -7571,7 +7571,7 @@ span.flaticon-multiply i {
 
 
 .counter-area.style-foure {
-    background: #004A19;
+    background: #0D2736;
     padding: 113px 0 86px;
 }
 
@@ -8000,7 +8000,7 @@ span.flaticon-multiply i {
 
 
 .team-area.style-foure {
-    background: #004A19;
+    background: #0D2736;
     padding: 112px 0 111px;
 }
 
@@ -8055,7 +8055,7 @@ span.flaticon-multiply i {
     content: "";
     height: 100%;
     width: 100%;
-    background: #004A19;
+    background: #0D2736;
     left: 0;
     z-index: -1;
     border-radius: 50%;
@@ -8172,7 +8172,7 @@ span.flaticon-multiply i {
 
 .testimonial-area.style-foure h3.testi-title {
     font-size: 24px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     margin: 0;
@@ -8244,7 +8244,7 @@ Awards One Css
 .text-box span {
     display: inline-block;
     font-size: 20px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
     background-color: #ffffff;
@@ -8403,7 +8403,7 @@ Awards One Css
 
 .awards-one__inner ul li .text-box h2 a {
     font-size: 26px;
-    color: #004c19;
+    color: #0D2736;
     font-weight: 600;
     font-family: "Rajdhani";
 }
@@ -8449,7 +8449,7 @@ Awards One Css
 
 .footer-area.style-foure {
     padding: 120px 0 96px;
-    background: #004A19;
+    background: #0D2736;
 }
 
 .footer-area.style-foure .row.footer-top {
