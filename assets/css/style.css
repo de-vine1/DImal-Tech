@@ -3905,7 +3905,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-family: "Nunito";
 }
 
-.style-three .massage-sent-button button {
+.style-three .message-sent-button button {
     border-radius: 3px;
     background-color: green;
     border: 2px solid green;
@@ -3914,7 +3914,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .massage-sent-button button:hover{
+.style-three .message-sent-button button:hover{
     color:green;
     background:#fff;
 }
